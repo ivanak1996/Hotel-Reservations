@@ -1,0 +1,13 @@
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\bin\Debug\netcoreapp3.1\HotelsReservations.exe
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\bin\Debug\netcoreapp3.1\HotelsReservations.deps.json
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\bin\Debug\netcoreapp3.1\HotelsReservations.runtimeconfig.json
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\bin\Debug\netcoreapp3.1\HotelsReservations.runtimeconfig.dev.json
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\bin\Debug\netcoreapp3.1\HotelsReservations.dll
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\bin\Debug\netcoreapp3.1\HotelsReservations.pdb
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\obj\Debug\netcoreapp3.1\HotelsReservations.csprojAssemblyReference.cache
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\obj\Debug\netcoreapp3.1\HotelsReservations.csproj.CoreCompileInputs.cache
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\obj\Debug\netcoreapp3.1\HotelsReservations.AssemblyInfoInputs.cache
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\obj\Debug\netcoreapp3.1\HotelsReservations.AssemblyInfo.cs
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\obj\Debug\netcoreapp3.1\HotelsReservations.dll
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\obj\Debug\netcoreapp3.1\HotelsReservations.pdb
+C:\Users\ivana\source\repos\HotelsReservations\HotelsReservations\obj\Debug\netcoreapp3.1\HotelsReservations.genruntimeconfig.cache
