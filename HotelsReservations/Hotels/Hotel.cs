@@ -96,6 +96,8 @@ namespace HotelsReservations.Hotels
             return freeRoom;
         }
 
+        // in case the adjacent booking is not necessary, but booking the first free room
+        // this is the method I would normally use
         private int GetFreeRoomNumber(int startDay, int endDay)
         {
             int freeRoom = ROOM_NOT_FOUND;
